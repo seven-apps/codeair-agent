@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <em>[ Demo GIF Coming Soon ]</em>
+  <img src="ezgif-2d2a4fc2eb74bf3b.gif" alt="CodeAir Demo" width="800" />
 </p>
 
 ---
